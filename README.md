@@ -1,16 +1,15 @@
-## Hi there 👋
+<!DOCTYPE html>
 
-<!--
-**Bharath8500/bharath8500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <title></title>
+</head>
 
-Here are some ideas to get you started:
+<body>
+    <h1>Hi, I'm Bharath Chavala 👋</h1>
+    <p>Welcome to my GitHub profile! I'm a passionate Software Engineer with experience in backend development, cloud
+        infrastructure, and microservices. Below you'll find an overview of my skills and some of the projects I've
+        worked on.
+    </p>
+</body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
