@@ -76,7 +76,7 @@
     <section>
         <h2>Projects</h2>
         <h3><a href="https://github.com/Bharath8500/E-Commerce-Project.git" target="_blank">E-Commerce</a></h3>
-        <p>Brief description of what Project 1 does and any notable features.</p>
+        <p>Developed a comprehensive microservices-based architecture using Spring Boot, focusing on scalability, resilience, and asynchronous communication. This project demonstrates a high-level architecture involving several microservices, each serving distinct functions within an e-commerce system.</p>
     </section>
     <footer>
         <p>Contact Me</p>
