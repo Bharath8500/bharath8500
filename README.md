@@ -82,6 +82,5 @@
         <p>Contact Me</p>
         <p>Email: <a href="mailto:bharath.chavala123@gmail.com">bharath.chavala123@gmail.com</a></p>
         <p>Contact No: <a>+1 (417)-351-7352</a></p>
-        <p>LinkedIn: <a href="www.linkedin.com/in/bharathchavala" target="_blank">Bharath Chavala</a></p>
     </footer>
 </body>
