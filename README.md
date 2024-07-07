@@ -75,17 +75,12 @@
     </section>
     <section>
         <h2>Projects</h2>
-        <h3><a href="https://github.com/yourusername/project1" target="_blank">Project 1</a></h3>
+        <h3><a href="https://github.com/Bharath8500/E-Commerce-Project.git" target="_blank">E-Commerce</a></h3>
         <p>Brief description of what Project 1 does and any notable features.</p>
-        <h3><a href="https://github.com/yourusername/project2" target="_blank">Project 2</a></h3>
-        <p>Brief description of what Project 2 does and any notable features.</p>
-        <h3><a href="https://github.com/yourusername/project3" target="_blank">Project 3</a></h3>
-        <p>Brief description of what Project 3 does and any notable features.</p>
     </section>
     <footer>
         <p>Contact Me</p>
         <p>Email: <a href="mailto:bharath.chavala123@gmail.com">bharath.chavala123@gmail.com</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">Bharath Chavala</a></p>
-        <p>GitHub: <a href="https://github.com/bharath.chavala123" target="_blank">bharath.chavala123</a></p>
+        <p>LinkedIn: <a href="www.linkedin.com/in/bharathchavala" target="_blank">Bharath Chavala</a></p>
     </footer>
 </body>
